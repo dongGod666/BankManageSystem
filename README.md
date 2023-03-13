@@ -30,6 +30,7 @@ SSM + mybatis + Maven + Vue 等等组成，B/S模式 + Maven管理等等。
 
 
 
+==========================================================================================
 Bank customer management system
 
 
@@ -57,24 +58,24 @@ Environmental needs
 
 
 
-1. Running environment: It is better to use java jdk 1.8, which we run on. Other versions can also be used in theory.
+1.Running environment: It is better to use java jdk 1.8, which we run on. Other versions can also be used in theory.
 
 
 
-2. IDE environment: IDEA, Eclipse, and Myeclipse can all be used. Recommend IDEA;
+2.IDE environment: IDEA, Eclipse, and Myeclipse can all be used. Recommend IDEA;
 
 
 
-3. Tomcat environment: Tomcat 7. x, 8. x, 9. x versions are available
+3.Tomcat environment: Tomcat 7. x, 8. x, 9. x versions are available
 
 
 
-4. Hardware environment: Windows 7/8/10 1G memory or above; Or Mac OS;
+4.Hardware environment: Windows 7/8/10 1G memory or above; Or Mac OS;
 
 
 
-5. Maven project: No; Check whether the source directory contains pom.xml; If it contains, it is a maven project, otherwise it is a non-maven project
+5.Maven project: No; Check whether the source directory contains pom.xml; If it contains, it is a maven project, otherwise it is a non-maven project
 
 
 
-6. Database: MySql 5.7/8.0 and other versions are available;
+6.Database: MySql 5.7/8.0 and other versions are available;
