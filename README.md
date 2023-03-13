@@ -26,7 +26,10 @@ SSM + mybatis + Maven + Vue 等等组成，B/S模式 + Maven管理等等。
 6.数据库：MySql 5.7/8.0等版本均可；
 
 
-Operation of bank customer management system project
+Bank customer management system
+
+
+Project operation
 
 
 
@@ -70,4 +73,4 @@ Environmental needs
 
 
 
-6. Database: MySql 5.7/8.0 and other versions are availabl
+6. Database: MySql 5.7/8.0 and other versions are available;
